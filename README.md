@@ -1,2 +1,3 @@
-# projecao-custo-tributario-preview
-Builds públicos temporários para validação visual do projeto
+# Page test previews
+
+Temporary static artifacts for visual interface testing.
